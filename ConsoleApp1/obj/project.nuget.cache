@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5gi+LT30SE6sQqor2sMKhBM0sH9Hc9mS68B3PhB2GyIH6Lq3VyYhrmydz/9NSxHEAqqBVvX2WwYuEcvsBlVPdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ravikanth\\Desktop\\SerialLog-2.0\\ConsoleApp1\\ConsoleApp1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ravikanth\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
